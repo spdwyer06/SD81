@@ -1,0 +1,14 @@
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\Comparison\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\Comparison\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\Comparison\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\Comparison\bin\Debug\Comparison.dll
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\Comparison\bin\Debug\Comparison.pdb
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\Comparison\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\Comparison\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\Comparison\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\Comparison\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\Comparison\obj\Debug\Comparison.csprojAssemblyReference.cache
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\Comparison\obj\Debug\Comparison.csproj.CoreCompileInputs.cache
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\Comparison\obj\Debug\Comparison.csproj.CopyComplete
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\Comparison\obj\Debug\Comparison.dll
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\Comparison\obj\Debug\Comparison.pdb

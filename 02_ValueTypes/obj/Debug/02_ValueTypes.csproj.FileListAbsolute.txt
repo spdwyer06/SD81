@@ -1,0 +1,14 @@
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\02_ValueTypes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\02_ValueTypes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\02_ValueTypes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\02_ValueTypes\bin\Debug\02_ValueTypes.dll
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\02_ValueTypes\bin\Debug\02_ValueTypes.pdb
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\02_ValueTypes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\02_ValueTypes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\02_ValueTypes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\02_ValueTypes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\02_ValueTypes\obj\Debug\02_ValueTypes.csprojAssemblyReference.cache
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\02_ValueTypes\obj\Debug\02_ValueTypes.csproj.CoreCompileInputs.cache
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\02_ValueTypes\obj\Debug\02_ValueTypes.csproj.CopyComplete
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\02_ValueTypes\obj\Debug\02_ValueTypes.dll
+C:\Sean\EFA_LA\SD81_March2021\GoldBadge\C_Sharp_Fundamentals\02_ValueTypes\obj\Debug\02_ValueTypes.pdb
